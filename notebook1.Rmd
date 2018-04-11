@@ -1,0 +1,9 @@
+---
+title: "My First Notebook"
+output: html_notebook
+---
+
+This is an [R Markdown](http://rmarkdown.rstudio.com) Notebook. When you execute code within the notebook, the results appear beneath the code. 
+
+
+We will use this file to demonstrate Git merge conflicts and how to resolve them.
