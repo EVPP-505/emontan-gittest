@@ -16,4 +16,4 @@ a <- seq(1:10)
 a
 ```
 
-Now add conflict
+Resolve by choosing one or the other, or simply make a new change
