@@ -7,3 +7,11 @@ This is an [R Markdown](http://rmarkdown.rstudio.com) Notebook. When you execute
 
 
 We will use this file to demonstrate Git merge conflicts and how to resolve them.
+
+Now I'm adding a line in a new branch
+
+```{r new-chunk}
+
+a <- seq(1:10)
+a
+```
