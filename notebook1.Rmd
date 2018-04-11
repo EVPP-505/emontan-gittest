@@ -15,3 +15,5 @@ Now I'm adding a line in a new branch
 a <- seq(1:10)
 a
 ```
+
+Now add conflict
